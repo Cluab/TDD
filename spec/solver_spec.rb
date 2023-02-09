@@ -18,4 +18,9 @@ describe Solver do
       end
     end
   end
+  describe '#reverse' do
+    it 'returns the word reversed' do
+      expect(solver.reverse('hello')).to eq('olleh')
+    end
+  end
 end
