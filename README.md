@@ -2,7 +2,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖  ](#--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -21,7 +21,7 @@
 
 # 📖  <a name="about-project"></a>
 
-**OOP School Library** Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them The school library app allows you to do all of that in a well organized manner.
+This project implements a class with some methods, led by test-driven development (TDD). The idea of this project is to enforce the idea of writing tests first and then the code.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -37,9 +37,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add new students or teachers**
-- **Add new books**
-- **Save records of who borrowed a given book and when**
+- **Has a method that takes in one argument, a string, and returns a reversed string**
+- **Has a method that takes in one argument, an integer and returns factorial of that number**
+- **Has a method that takes one argument, an integer, and returns a string**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,13 +62,13 @@ Clone this repository to your desired folder:
 **clone repo to your desired folder:**
 
 ```
-git clone git@github.com:Cluab/OOP-school-library.git
+git clone git@github.com:Cluab/TDD.git
 ```
 
 **Then**
 
 ```
-cd OOP-school-library
+cd TDD
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -94,7 +94,7 @@ cd OOP-school-library
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **loading...**
+- **Implement a method that solves mathematical calculations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ cd OOP-school-library
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Cluab/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
