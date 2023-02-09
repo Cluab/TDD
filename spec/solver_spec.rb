@@ -1,3 +1,4 @@
+require './spec/spec_helper'
 describe Solver do
   let(:solver) { Solver.new }
 
